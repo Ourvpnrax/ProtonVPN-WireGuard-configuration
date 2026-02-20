@@ -38,3 +38,13 @@ The files are available both on the GitHub repository and through the Telegram c
 3.  **Client Use:**
     * Ensure the Wiresock client is installed and running.
     * Import your desired `.conf` files from the country folders into Wiresock and connect.
+
+## 🔥 Keep This Project Going!
+
+If you're finding this useful, please show your support:
+
+⭐ **Star the repository on GitHub**
+
+⭐ **Star our [Telegram posts](https://t.me/DeltaKroneckerGithub)** 
+
+Your stars fuel our motivation to keep improving!
